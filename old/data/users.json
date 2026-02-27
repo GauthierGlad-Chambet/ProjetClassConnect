@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Bob Martin",
+    "email": "bob.martin@example.com",
+    "password": "$2b$10$examplehashedpassword",
+    "role": "student"
+  }
+]

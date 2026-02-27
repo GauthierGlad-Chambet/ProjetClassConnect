@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "content": "Bonjour tout le monde !",
+    "createdAt": "2026-02-24T10:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "content": "Bonjour tout le monde !",
+    "createdAt": "2026-02-24T10:15:00.000Z"
+  }
+]
